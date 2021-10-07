@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">微博体育</string>
+    <string name="title_notifications">用户</string>
+    <string name="title_dashboard">强调</string>
+    <string name="title_home">" 家"</string>
+    <string name="all">全部</string>
+    <string name="premier_league">英超</string>
+    <string name="uefa_champions_league">欧冠</string>
+    <string name="europa_league">欧联</string>
+    <string name="la_liga">西甲</string>
+    <string name="serie_a">意甲</string>
+    <string name="bundesliga">德甲</string>
+    <string name="french_ligue">法甲</string>
+    <string name="other">其他</string>
+    <string name="user">用户</string>
+    <string name="english">英语</string>
+    <string name="china">中国人</string>
+    <string name="Languages">语言</string>
+    <string name="click_the_video_to_watch_and_listen">点击视频观看和收听</string>
+    <string name="coming_soon">即将推出</string>
+    <string name="name">姓名：</string>
+    <string name="additional_feature_will_be_release_soon">附加功能将很快发布</string>
+    <string name="title_activity_splach_screen">" 闪屏"</string>
+    <string name="views">观看次数</string>
+    <string name="likes">喜欢</string>
+    <string name="recent_history">最近的历史</string>
+</resources>

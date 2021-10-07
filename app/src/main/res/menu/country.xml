@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <item
+        android:id="@+id/kotlin"
+        android:title=""
+        app:showAsAction="always"
+        android:icon="@drawable/ic_baseline_language_24"/>
+    <item
+        android:id="@+id/china"
+        android:title="@string/china" />
+    <item
+        android:id="@+id/english"
+        android:title="@string/english" />
+</menu>

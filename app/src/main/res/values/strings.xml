@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Weibo Sports</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Highlights</string>
+    <string name="title_notifications">User</string>
+
+    <string name="premier_league">Premier League</string>
+
+    <string name="uefa_champions_league">UEFA Champions League</string>
+
+    <string name="europa_league">Europa League</string>
+
+    <string name="la_liga">La Liga</string>
+
+    <string name="serie_a">Series A</string>
+
+    <string name="bundesliga">Bundesliga</string>
+
+    <string name="french_ligue">French League</string>
+
+    <string name="other">Others</string>
+
+    <string name="all">All</string>
+    <string name="user">User</string>
+    <string name="china">Chinese</string>
+    <string name="english">English</string>
+    <string name="Languages">Languages</string>
+    <string name="click_the_video_to_watch_and_listen">Click The Video to Watch and Listen</string>
+    <string name="coming_soon">Coming Soon</string>
+    <string name="name">Name:</string>
+    <string name="additional_feature_will_be_release_soon">Additional feature will be release soon.</string>
+
+    <string-array name="languages">
+        <item>@string/english</item>
+        <item>@string/china</item>
+    </string-array>
+    <string name="title_activity_splach_screen">SplachScreen</string>
+    <string name="views">Views</string>
+    <string name="likes">Likes</string>
+    <string name="recent_history">Recent History</string>
+</resources>
